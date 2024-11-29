@@ -76,4 +76,4 @@ class Ray
 2. ray.\\(\mathbf{o}\leftarrow\mathbf{e}\\)
 3. ray.\\(\mathbf{d}\leftarrow -d\mathbf{w}+u\mathbf{u}+v\mathbf{v}\\)
 
-&emsp;&emsp;与平行投影一样，通过分别指定像平面法向量和投影方向，也可以实现斜透视图。
+&emsp;&emsp;与平行投影一样，通过分别指定像平面法向量和投影方向，也可以实现斜透视投影。
